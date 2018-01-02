@@ -1,0 +1,20 @@
+{
+  "name": "exam-paper",
+  "version": "1.0.0",
+  "description": "Powered by ThoughtWorks School",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node run-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw-online-quiz/exam-paper.git"
+  },
+  "author": "m",
+  "license": "GPL-3.0",
+  "homepage": "https://school.thoughtworks.cn",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
